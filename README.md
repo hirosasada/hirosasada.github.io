@@ -20,6 +20,6 @@ My research interests include political economy, party politics, and foreign pol
 
 list of publications here
 
-### teaching
+### Teaching
 
 list of classes
