@@ -24,13 +24,14 @@ list of publications here
 ### Teaching
 
 Introduction to Japanese Politics  
-Japanese Foreign Policy  
 Political Economy of Japan and East Asia  
+Japanese Foreign Policy  
+Japanese Political History (1868-1955)  
 日本社会論 III  
 社会・時事問題  
 
 ### Links
-『農業保護政策の起源：近代日本農政の発展 1874~1945』 （勁草書房, 2018年）   
+『農業保護政策の起源：近代日本農政の発展 1874~1945』（勁草書房, 2018年）   
 ***The Evolution of the Japanese Developmental State*** (Routledge, 2012)  
-『制度発展と政策アイディア』 （木鐸社, 2011年）  
+『制度発展と政策アイディア』（木鐸社, 2011年）  
 
