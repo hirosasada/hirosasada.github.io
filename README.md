@@ -1,6 +1,6 @@
 Welcome to Hiro Sasada's website
 
-  This webisite is underconstruction.
+Hironori Sasada is Associate Professor of international studies in the Research Faculty of Media and Communication, Hokkaido University. He is the program cordinator of Hokkaido University's Modern Japanese Studies Program.
 
 ### About me
 
