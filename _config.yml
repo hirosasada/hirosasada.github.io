@@ -1,1 +1,7 @@
 theme: jekyll-theme-leap-day
+title: This is the personal website of Hironori Sasada
+description: My website
+plugins:
+  - jemoji
+  
+  
