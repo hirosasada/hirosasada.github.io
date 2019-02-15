@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Hiro Sasada's website
 
-You can use the [editor on GitHub](https://github.com/hirosasada/hirosasada.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This webisite is underconstruction.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About me
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I will write about myself here
 
 ```markdown
 Syntax highlighted code block
