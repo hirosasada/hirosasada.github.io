@@ -5,7 +5,7 @@ Hironori Sasada is Associate Professor of international studies in the Research 
 
 ### About me
 
-I am originally from Kumamoto, Japan. After graduating from a high school in Kumamoto, I moved to the United States to study politics and lived there for 15 years. I received my B.A. in political science at U.C. Berkeley, my M.A. in international relations at U.C. San Diego, and my Ph.D. in political science at the University of Washington in Seattle. My research interests include political economy, party politics, and foreign policy of Japan and East Asia. I am the author of *The Evolution of the Japanese Developmental State: Institutions Locked-in by Ideas (Routledge, 2012).* The book was also published in Japanese and Korean. My recent articles appeared in *The Japanese Political Economy, Journal of East Asian Studies, Japanese Journal of Political Science, Asian Journal of Political Science, and The SAIS Review*.
+I am originally from Kumamoto, Japan. After graduating from a high school in Kumamoto, I moved to the United States to study politics and lived there for 15 years. I received my B.A. in political science at U.C. Berkeley, my M.A. in international relations at U.C. San Diego, and my Ph.D. in political science at the University of Washington in Seattle. My research interests include political economy, party politics, and foreign policy of Japan and East Asia. I am the author of ***The Evolution of the Japanese Developmental State: Institutions Locked-in by Ideas*** (Routledge, 2012). The book was also published in Japanese and Korean. My recent articles appeared in *The Japanese Political Economy, Journal of East Asian Studies, Japanese Journal of Political Science, Asian Journal of Political Science, and The SAIS Review*.
 
 ### Profile
 
@@ -28,3 +28,9 @@ Japanese Foreign Policy
 Political Economy of Japan and East Asia  
 日本社会論 III  
 社会・時事問題  
+
+### Links
+『農業保護政策の起源：近代日本農政の発展 1874~1945』 （勁草書房, 2018年）   
+***The Evolution of the Japanese Developmental State: Institutions Locked-in by Ideas*** (Routledge, 2012)  
+『制度発展と政策アイディア』 （木鐸社, 2011年）  
+
