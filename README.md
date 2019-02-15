@@ -24,7 +24,7 @@ list of publications here
 ### Teaching
 
 Introduction to Japanese Politics  
-Japanese Foreign Policy
-Political Economy of Japan and East Asia
+Japanese Foreign Policy  
+Political Economy of Japan and East Asia  
 日本社会論 III  
 社会・時事問題  
