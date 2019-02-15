@@ -1,4 +1,4 @@
-<span style="font-size:200%">**Welcome to Hiro Sasada's personal website**</span>    
+<span style="font-size:150%">**Welcome to Hiro Sasada's personal website**</span>    
 (This website is <u>currently underconstruction</u>. [Use this website till April 2019.](https://hironori-sasada.net))
 
 Hironori Sasada is Associate Professor of international studies in the Research Faculty of Media and Communication, Hokkaido University. He is the program cordinator of [Hokkaido University's Modern Japanese Studies Program.](https://www.oia.hokudai.ac.jp/mjsp/)
