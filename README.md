@@ -9,9 +9,9 @@ I am originally from Kumamoto, Japan. After graduating from a high school in Kum
 
 ### Profile
 
-  Education background
-  Career background
-  Others
+  Education background  
+  Career background  
+  Others  
 
 ### Research
 
@@ -23,4 +23,8 @@ list of publications here
 
 ### Teaching
 
-list of classes
+Introduction to Japanese Politics  
+Japanese Foreign Policy
+Political Economy of Japan and East Asia
+日本社会論 III  
+社会・時事問題  
