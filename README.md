@@ -1,6 +1,6 @@
 <span style="font-size:14pt">**Welcome to Hiro Sasada's website**</span>    
 
-- **Hironori Sasada is Associate Professor of Japanese politics at the Research Faculty of Media and Communication, Hokkaido University. He is also the program coordinator of Hokkaido University's <font color="Red">[Modern Japanese Studies Program.](https://www.oia.hokudai.ac.jp/mjsp/)</font>** [MJSP website](https://www.oia.hokudai.ac.jp/mjsp/)  
+- **Hironori Sasada is Associate Professor of Japanese politics at the Research Faculty of Media and Communication, Hokkaido University. He is also the program coordinator of Hokkaido University's <font color="Red">Modern Japanese Studies Program.</font>** 
 
 ### About me
 
@@ -37,7 +37,10 @@
 ### Links
 - [『農業保護政策の起源：近代日本農政の発展 1874~1945』（勁草書房, 2018年）](https://www.amazon.co.jp/dp/4326351772)     
 - [*The Evolution of the Japanese Developmental State* (Routledge, 2012)](https://read.amazon.com/kp/embed?asin=B0094GB17M&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_Ck6zCb1GPP3ZB)    
-- [『制度発展と政策アイディア』（木鐸社, 2011年）](https://www.amazon.co.jp/dp/4833224488)    
+- [『制度発展と政策アイディア』（木鐸社, 2011年）](https://www.amazon.co.jp/dp/4833224488)  
+  
+- [Hokkaido University](https://www.hokudai.ac.jp)  
+- [Hokkaido University Modern Japanese Studies Program](https://www.oia.hokudai.ac.jp/mjsp)  
 
 **[Top ↑](https://hirosasada.github.io/)**    
   
