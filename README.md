@@ -32,9 +32,9 @@
 - 社会・時事問題  
 
 ### Links
-- 『農業保護政策の起源：近代日本農政の発展 1874~1945』（勁草書房, 2018年）   
+- [『農業保護政策の起源：近代日本農政の発展 1874~1945』（勁草書房, 2018年）](https://www.amazon.co.jp/dp/4326351772)     
 - [*The Evolution of the Japanese Developmental State* (Routledge, 2012)](https://read.amazon.com/kp/embed?asin=B0094GB17M&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_Ck6zCb1GPP3ZB)    
-- 『制度発展と政策アイディア』（木鐸社, 2011年）  
+- [『制度発展と政策アイディア』（木鐸社, 2011年）](https://www.amazon.co.jp/dp/4833224488)    
 
 **[Top↑](https://hirosasada.github.io/)**    
   
