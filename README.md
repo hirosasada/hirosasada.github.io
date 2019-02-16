@@ -1,5 +1,5 @@
 <span style="font-size:14pt">**Welcome to Hiro Sasada's personal website**</span>    
-(This website is <font color="Red">currently underconstruction</font>. <u>[Please use this website till April 2019.](https://hironori-sasada.net)</u>  
+(This website is <font color="Red">currently underconstruction</font>. <u>Please use [this website](https://hironori-sasada.net) till April 2019.</u>  
 
 Hironori Sasada is Associate Professor of Japanese politics in the Research Faculty of Media and Communication, Hokkaido University. He is the program coordinator of [Hokkaido University's Modern Japanese Studies Program.](https://www.oia.hokudai.ac.jp/mjsp/)
 
