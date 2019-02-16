@@ -37,5 +37,5 @@
 - [*The Evolution of the Japanese Developmental State* (Routledge, 2012)](https://read.amazon.com/kp/embed?asin=B0094GB17M&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_Ck6zCb1GPP3ZB)    
 - [『制度発展と政策アイディア』（木鐸社, 2011年）](https://www.amazon.co.jp/dp/4833224488)    
 
-**[Top↑](https://hirosasada.github.io/)**    
+**[Top ↑](https://hirosasada.github.io/)**    
   
