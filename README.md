@@ -19,7 +19,8 @@
 
 ### Publications
 
-- [Click here for a list of my publications.](https://hirosasada.github.io/publications)    
+- [A list of my publications.](https://hirosasada.github.io/publications)    
+- [Google Scholar Citation](https://scholar.google.com/citations?user=GcsuKIUAAAAJ&hl=en)   
 
 ### Teaching
 
