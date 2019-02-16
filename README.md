@@ -1,11 +1,11 @@
 <span style="font-size:14pt">**Welcome to Hiro Sasada's website**</span>    
 (This website is <font color="Red">currently under construction</font>. Please use [this website](https://hironori-sasada.net) till April 2019.  
 
-  **Hironori Sasada is Associate Professor of Japanese politics at the Research Faculty of Media and Communication, Hokkaido University. He is also the program coordinator of [Hokkaido University's Modern Japanese Studies Program.](https://www.oia.hokudai.ac.jp/mjsp/)**  
+- **Hironori Sasada is Associate Professor of Japanese politics at the Research Faculty of Media and Communication, Hokkaido University. He is also the program coordinator of [Hokkaido University's Modern Japanese Studies Program.](https://www.oia.hokudai.ac.jp/mjsp/)**  
 
 ### About me
 
-  I am originally from Kumamoto, Japan. After graduating from a high school in Kumamoto, I moved to the United States to study politics and lived there for 15 years. I received my B.A. in political science at U.C. Berkeley, my M.A. in international relations at U.C. San Diego, and my Ph.D. in political science at the University of Washington in Seattle, WA. Now, I am teaching at Hokkaido University in Sapporo, Japan.  
+- I am originally from Kumamoto, Japan. After graduating from a high school in Kumamoto, I moved to the United States to study politics and lived there for 15 years. I received my B.A. in political science at U.C. Berkeley, my M.A. in international relations at U.C. San Diego, and my Ph.D. in political science at the University of Washington in Seattle, WA. Now, I am teaching at Hokkaido University in Sapporo, Japan.  
   
   My research interests include political economy, party politics, and foreign policy of Japan and East Asia. I am the author of ***The Evolution of the Japanese Developmental State: Institutions Locked-in by Ideas*** (Routledge, 2012). The book was also published in Japanese and Korean. My recent articles appeared in *The Japanese Political Economy, Journal of East Asian Studies, Japanese Journal of Political Science, Asian Journal of Political Science, and The SAIS Review*.
 
@@ -17,12 +17,12 @@
   
 ### Research
 
-  My research interests include political economy, party politics, and foreign policy of Japan and East Asia. Currently, I am researching the Japanese government’s agricultural trade policies from a view point of constructivist institutionalism. My latest article “The ‘Third Arrow’ or Friendly Fire? The LDP Government’s Reform Plan for the Japan Agricultural Cooperatives” appeared in the November 2015 issue of *The Japanese Political Economy*. Another article “Alternative Paths to Party Polarization: External Impacts of Intraparty Organization in Japan” (co-authored with N. Fujimura and S. Machidori) appeared in *The Journal of East Asian Studies* in September 2013.
+- My research interests include political economy, party politics, and foreign policy of Japan and East Asia. Currently, I am researching the Japanese government’s agricultural trade policies from a view point of constructivist institutionalism. My latest article “The ‘Third Arrow’ or Friendly Fire? The LDP Government’s Reform Plan for the Japan Agricultural Cooperatives” appeared in the November 2015 issue of *The Japanese Political Economy*. Another article “Alternative Paths to Party Polarization: External Impacts of Intraparty Organization in Japan” (co-authored with N. Fujimura and S. Machidori) appeared in *The Journal of East Asian Studies* in September 2013.
 
 ### Publications
 
-  [A list of my publications](https://hirosasada.github.io/publications)    
-  [Google Scholar Citation](https://scholar.google.com/citations?user=GcsuKIUAAAAJ&hl=en)   
+- [A list of my publications](https://hirosasada.github.io/publications)    
+- [Google Scholar Citation](https://scholar.google.com/citations?user=GcsuKIUAAAAJ&hl=en)   
 
 ### Teaching
 
