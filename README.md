@@ -32,6 +32,6 @@ Hironori Sasada is Associate Professor of Japanese politics in the Research Facu
 
 ### Links
 - 『農業保護政策の起源：近代日本農政の発展 1874~1945』（勁草書房, 2018年）   
-- [***The Evolution of the Japanese Developmental State*** (Routledge, 2012)](https://read.amazon.com/kp/embed?asin=B0094GB17M&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_Ck6zCb1GPP3ZB)    
+- [*The Evolution of the Japanese Developmental State* (Routledge, 2012)](https://read.amazon.com/kp/embed?asin=B0094GB17M&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_Ck6zCb1GPP3ZB)    
 - 『制度発展と政策アイディア』（木鐸社, 2011年）  
 
