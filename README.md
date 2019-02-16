@@ -19,7 +19,7 @@ My research interests include political economy, party politics, and foreign pol
 
 ### Publications
 
-list of publications here
+[Click here for a list of my publications.](https://hirosasada.github.io/publications)    
 
 ### Teaching
 
