@@ -23,6 +23,7 @@
 
 - [A list of my publications](https://hirosasada.github.io/publications)    
 - [Google Scholar Citation](https://scholar.google.com/citations?user=GcsuKIUAAAAJ&hl=en)   
+- [Research Gate](https://www.researchgate.net/profile/Hironori_Sasada)  
 
 ### Teaching
 
