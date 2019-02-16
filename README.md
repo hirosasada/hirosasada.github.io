@@ -11,8 +11,8 @@ Hironori Sasada is Associate Professor of Japanese politics in the Research Facu
 
 - [Education background](https://hirosasada.github.io/education-background)    
 - [Career background](https://hirosasada.github.io/career-background)    
-- Others  
-
+- [Others](https://hirosasada.github.io/others)    
+  
 ### Research
 
 - My research interests include political economy, party politics, and foreign policy of Japan and East Asia. Currently, I am researching the Japanese government’s agricultural trade policies from a view point of historical institutionalism. My latest article “The ‘Third Arrow’ or Friendly Fire? The LDP Government’s Reform Plan for the Japan Agricultural Cooperatives” appeared in the November 2015 issue of *The Japanese Political Economy*. Another article “Alternative Paths to Party Polarization: External Impacts of Intraparty Organization in Japan” (co-authored with N. Fujimura and S. Machidori) appeared in *The Journal of East Asian Studies* in September 2013.
