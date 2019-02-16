@@ -9,9 +9,9 @@ I am originally from Kumamoto, Japan. After graduating from a high school in Kum
 
 ### Profile
 
-  Education background  
-  Career background  
-  Others  
+- [Education background](https://hirosasada.github.io/education-background)    
+- Career background  
+- Others  
 
 ### Research
 
