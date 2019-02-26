@@ -3,7 +3,7 @@
 
 - **Hironori Sasada is Associate Professor of Japanese politics at the Research Faculty of Media and Communication, Hokkaido University. He is also the program coordinator of Hokkaido University's <font color="Red">Modern Japanese Studies Program.</font>**  
  
-![space02](https://user-images.githubusercontent.com/47653058/53388580-00721200-39cf-11e9-80f8-48ecbd6f59fb.png)　
+![space03](https://user-images.githubusercontent.com/47653058/53389096-4b8d2480-39d1-11e9-983c-171961f2cd8d.png)　
 ![p008](https://user-images.githubusercontent.com/47653058/53384247-8dac6b00-39bd-11e9-96b6-cfa8d9557570.JPG)    
 
 ### About me
