@@ -22,7 +22,9 @@
 - My research interests include political economy, party politics, and foreign policy of Japan and East Asia. Currently, I am researching the Japanese government’s agricultural trade policies from a view point of constructivist institutionalism. My latest article “The ‘Third Arrow’ or Friendly Fire? The LDP Government’s Reform Plan for the Japan Agricultural Cooperatives” appeared in the November 2015 issue of *The Japanese Political Economy*. Another article “Alternative Paths to Party Polarization: External Impacts of Intraparty Organization in Japan” (co-authored with N. Fujimura and S. Machidori) appeared in *The Journal of East Asian Studies* in September 2013.
 
 ### Publications
-![book cover web](https://user-images.githubusercontent.com/47653058/53387325-bd617000-39c9-11e9-8023-cdfb4fc7f913.jpg)  
+![book cover web](https://user-images.githubusercontent.com/47653058/53387325-bd617000-39c9-11e9-8023-cdfb4fc7f913.jpg)　
+![book cover web 03](https://user-images.githubusercontent.com/47653058/53388374-382c8a00-39ce-11e9-8c54-2f65e959211f.jpg)　
+![book cover web 04](https://user-images.githubusercontent.com/47653058/53388377-3bc01100-39ce-11e9-87bb-7e62fac41765.jpg)  
 - [Publication list](https://hirosasada.github.io/publications)    
 - [Google Scholar Citation](https://scholar.google.com/citations?user=GcsuKIUAAAAJ&hl=en)   
 - [Research Gate](https://www.researchgate.net/profile/Hironori_Sasada)  
