@@ -33,7 +33,7 @@
   
 ### Teaching
 
-- [Introduction to Japanese Politics](https://hirosasada.github.io/japanese-politics/)  
+- Introduction to Japanese Politics
 - Political Economy of Japan and East Asia  
 - Japanese Foreign Policy  
 - Japanese Political History (1868-1955)  
