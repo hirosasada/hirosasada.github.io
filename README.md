@@ -50,4 +50,4 @@
 - [Hokkaido University Modern Japanese Studies Program](https://www.oia.hokudai.ac.jp/mjsp)  
 
 **[Top ↑](https://hirosasada.github.io/)**    
-  
+<font color="White">Hironori Sasada Hiro Sasada Hokkaido University political science 佐々田博教 北海道大学 政治学</font>    
