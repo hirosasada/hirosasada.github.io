@@ -8,7 +8,7 @@
 
 ### About me
 
-- I am originally from Kumamoto, Japan. After graduating from a high school in Kumamoto, I moved to the United States to study politics and lived there for 15 years. I received my B.A. in political science at U.C. Berkeley, my M.A. in international relations at U.C. San Diego, and my Ph.D. in political science at the University of Washington in Seattle, WA. Now, I am teaching at Hokkaido University in Sapporo, Japan.  
+- I am originally from Kumamoto, Japan. After graduating from a high school in Kumamoto, I moved to the United States to study politics and lived there for 15 years. I received my B.A. in political science at U.C. Berkeley, my M.A. in international relations at U.C. San Diego, and my Ph.D. in political science at the University of Washington in Seattle, WA. Now, I am teaching at Hokkaido University in Sapporo, Japan. I also teach at Vietnam Japan University in Hanoi, Vietnam as a visiting lecturer.  
   
   My research interests include political economy, party politics, and foreign policy of Japan and East Asia. I am the author of ***The Evolution of the Japanese Developmental State: Institutions Locked-in by Ideas*** (Routledge, 2012). The book was also published in Japanese and Korean. My recent articles appeared in *The Japanese Political Economy, Journal of East Asian Studies, Japanese Journal of Political Science, Asian Journal of Political Science, and The SAIS Review*.
 
@@ -31,8 +31,8 @@
 - [Research Gate](https://www.researchgate.net/profile/Hironori_Sasada)  
 - Curriculum Vitae  
   
-### Teaching
-
+### Teaching  
+Hokkaido University  
 - Introduction to Japanese Politics
 - Political Economy of Japan and East Asia  
 - Japanese Foreign Policy  
@@ -40,6 +40,8 @@
 - International Political Economy  
 - 日本社会論 III  
 - 社会・時事問題  
+Vietnam Japan University
+- Public Policy Formation and Implementation  
 
 ### Links
 - [『農業保護政策の起源：近代日本農政の発展 1874~1945』（勁草書房, 2018年）](https://www.amazon.co.jp/dp/4326351772)     
