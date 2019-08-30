@@ -32,7 +32,7 @@
 - Curriculum Vitae  
   
 ### Teaching  
-Hokkaido University  
+#### Hokkaido University  
 - Introduction to Japanese Politics
 - Political Economy of Japan and East Asia  
 - Japanese Foreign Policy  
@@ -40,7 +40,7 @@ Hokkaido University
 - International Political Economy  
 - 日本社会論 III  
 - 社会・時事問題  
-Vietnam Japan University
+#### Vietnam Japan University
 - Public Policy Formation and Implementation  
 
 ### Links
