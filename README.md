@@ -17,6 +17,7 @@
 - [Education background](https://hirosasada.github.io/education-background)    
 - [Career background](https://hirosasada.github.io/career-background)    
 - [Others](https://hirosasada.github.io/others)    
+- [Curriculum Vitae](https://drive.google.com/open?id=1RvYjL51bu8Op2EVH5jc1ilNq2Rj1i8wK)  
   
 ### Research
 
@@ -29,7 +30,6 @@
 - [Publication list](https://hirosasada.github.io/publications)    
 - [Google Scholar Citation](https://scholar.google.com/citations?user=GcsuKIUAAAAJ&hl=en)   
 - [Research Gate](https://www.researchgate.net/profile/Hironori_Sasada)  
-- Curriculum Vitae  
   
 ### Teaching  
 #### Hokkaido University  
