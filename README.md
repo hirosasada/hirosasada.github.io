@@ -10,7 +10,7 @@
 
 - I am originally from Kumamoto, Japan. After graduating from a high school in Kumamoto, I moved to the United States to study politics and lived there for 15 years. I received my B.A. in political science at U.C. Berkeley, my M.A. in international relations at U.C. San Diego, and my Ph.D. in political science at the University of Washington in Seattle, WA. Now, I am teaching at Hokkaido University in Sapporo, Japan. I also teach at Vietnam Japan University in Hanoi, Vietnam as a visiting lecturer.  
   
-  My research interests include political economy, party politics, and foreign policy of Japan and East Asia. I am the author of ***The Evolution of the Japanese Developmental State: Institutions Locked-in by Ideas*** (Routledge, 2012). The book was also published in Japanese and Korean. My recent articles appeared in *The Japanese Political Economy, Journal of East Asian Studies, Japanese Journal of Political Science, Asian Journal of Political Science, and The SAIS Review*.
+  My research interests include political economy, party politics, and foreign policy of Japan and East Asia. I am the author of ***The Evolution of the Japanese Developmental State: Institutions Locked-in by Ideas*** (Routledge, 2012). The book was also published in Japanese and Korean. My articles appeared in *Asian Survey, The Japanese Political Economy, Journal of East Asian Studies, Japanese Journal of Political Science, Asian Journal of Political Science, and The SAIS Review*.
 
 ### Profile
 
@@ -21,7 +21,7 @@
   
 ### Research
 
-- My research interests include political economy, party politics, and foreign policy of Japan and East Asia. Currently, I am researching the Japanese government’s agricultural trade policies from a view point of constructivist institutionalism. My latest article, “Japan’s Aid Policy Reform and Infrastructure Development Assistance: Resurgence of the ‘Japan Model,’” will appear in *Asian Survey* shortly. Other recent articles include “The ‘Third Arrow’ or Friendly Fire? The LDP Government’s Reform Plan for the Japan Agricultural Cooperatives” in *The Japanese Political Economy* 2015, and “Alternative Paths to Party Polarization: External Impacts of Intraparty Organization in Japan” (co-authored with N. Fujimura and S. Machidori) in *The Journal of East Asian Studies* 2013.  
+- My research interests include political economy, party politics, and foreign policy of Japan and East Asia. Currently, I am researching the Japanese government’s agricultural trade policies from a view point of constructivist institutionalism. My latest article, “Resurgence of the ‘Japan Model?': Japan’s Aid Policy Reform and Infrastructure Development Assistance” appeared in *Asian Survey* in 2019. Other recent articles include “The ‘Third Arrow’ or Friendly Fire? The LDP Government’s Reform Plan for the Japan Agricultural Cooperatives” in *The Japanese Political Economy* 2015, and “Alternative Paths to Party Polarization: External Impacts of Intraparty Organization in Japan” (co-authored with N. Fujimura and S. Machidori) in *The Journal of East Asian Studies* 2013.  
 
 ### Publications
 ![book cover web](https://user-images.githubusercontent.com/47653058/53387325-bd617000-39c9-11e9-8023-cdfb4fc7f913.jpg)　
