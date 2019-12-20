@@ -7,7 +7,7 @@
 ![p008](https://user-images.githubusercontent.com/47653058/53384247-8dac6b00-39bd-11e9-96b6-cfa8d9557570.JPG)    
 
 ### What's new　　
- - My latest article **“Resurgence of the ‘Japan Model’?: Japan’s Aid Policy Reform and Infrastructure Development Assistance”** was published in the November/December 2019 edition of *Asian Survey,* a leading journal in the field of Asian studies. Click [here](https://as.ucpress.edu/content/59/6/1044) for more detail. 
+ - My latest article, **“Resurgence of the ‘Japan Model’?: Japan’s Aid Policy Reform and Infrastructure Development Assistance,”** was published in the November/December 2019 edition of ***Asian Survey,*** a leading journal in the field of Asian studies. Click [here](https://as.ucpress.edu/content/59/6/1044) for more detail. 
 
 ### About me
 
