@@ -6,6 +6,9 @@
 ![space03](https://user-images.githubusercontent.com/47653058/53389096-4b8d2480-39d1-11e9-983c-171961f2cd8d.png)　
 ![p008](https://user-images.githubusercontent.com/47653058/53384247-8dac6b00-39bd-11e9-96b6-cfa8d9557570.JPG)    
 
+### What's new　　
+ My latest article **“Resurgence of the ‘Japan Model’?: Japan’s Aid Policy Reform and Infrastructure Development Assistance”** was published in the November/December 2019 edition of *Asian Survey,* a leading journal in the field of Asian studies. Click [here](https://as.ucpress.edu/content/59/6/1044) for more detail. 
+
 ### About me
 
 - I am originally from Kumamoto, Japan. After graduating from a high school in Kumamoto, I moved to the United States to study politics and lived there for 15 years. I received my B.A. in political science at U.C. Berkeley, my M.A. in international relations at U.C. San Diego, and my Ph.D. in political science at the University of Washington in Seattle, WA. Now, I am teaching at Hokkaido University in Sapporo, Japan. I also teach at Vietnam Japan University in Hanoi, Vietnam as a visiting lecturer.  
