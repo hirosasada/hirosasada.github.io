@@ -4,7 +4,7 @@
 - **Hironori Sasada is Associate Professor of Japanese politics at the Research Faculty of Media and Communication, Hokkaido University. He is also the program coordinator of Hokkaido University's <font color="Red">Modern Japanese Studies Program.</font>**  
  
 ![space03](https://user-images.githubusercontent.com/47653058/53389096-4b8d2480-39d1-11e9-983c-171961f2cd8d.png)　
-![p008](https://user-images.githubusercontent.com/47653058/53384247-8dac6b00-39bd-11e9-96b6-cfa8d9557570.JPG)    
+![p008](https://user-images.githubusercontent.com/47653058/74298787-161e4a00-4d8e-11ea-9fda-b6db834a44e7.jpg)    
 
 ### What's new!　　
  - My latest article, **“Resurgence of the ‘Japan Model’?: Japan’s Aid Policy Reform and Infrastructure Development Assistance,”** was published in the November/December 2019 edition of ***Asian Survey,*** a leading journal in the field of Asian studies. Click [here](https://as.ucpress.edu/content/59/6/1044) for more detail. 
