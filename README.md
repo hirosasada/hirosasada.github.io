@@ -24,7 +24,7 @@
   
 ### Research
 
-- My research interests include political economy, party politics, and foreign policy of Japan and East Asia. Currently, I am researching the Japanese government’s agricultural trade policies from a view point of constructivist institutionalism. My latest article, “Resurgence of the ‘Japan Model?': Japan’s Aid Policy Reform and Infrastructure Development Assistance” appeared in *Asian Survey* in 2019. Other recent articles include “The ‘Third Arrow’ or Friendly Fire? The LDP Government’s Reform Plan for the Japan Agricultural Cooperatives” in *The Japanese Political Economy* 2015, and “Alternative Paths to Party Polarization: External Impacts of Intraparty Organization in Japan” (co-authored with N. Fujimura and S. Machidori) in *The Journal of East Asian Studies* 2013.  
+- Currently, I am researching the Japanese government’s agricultural trade policies from a view point of constructivist institutionalism. My latest article, “Resurgence of the ‘Japan Model?': Japan’s Aid Policy Reform and Infrastructure Development Assistance” appeared in *Asian Survey* in 2019. Other recent articles include “The ‘Third Arrow’ or Friendly Fire? The LDP Government’s Reform Plan for the Japan Agricultural Cooperatives” in *The Japanese Political Economy* 2015, and “Alternative Paths to Party Polarization: External Impacts of Intraparty Organization in Japan” (co-authored with N. Fujimura and S. Machidori) in *The Journal of East Asian Studies* 2013.  
 
 ### Publications
 ![book cover web](https://user-images.githubusercontent.com/47653058/53387325-bd617000-39c9-11e9-8023-cdfb4fc7f913.jpg)　
