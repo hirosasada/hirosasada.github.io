@@ -43,7 +43,7 @@
 - 社会・時事問題  
 
 #### Vietnam Japan University
-- Public Policy Formation and Implementation  
+- Public Policy Analysis    
 
 ### Links
 - [『農業保護政策の起源：近代日本農政の発展 1874~1945』（勁草書房, 2018年）](https://www.amazon.co.jp/dp/4326351772)     
