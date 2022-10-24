@@ -40,7 +40,7 @@
 - Japanese Political History (1868-1955)  
 - International Political Economy  
 - 日本社会論 III  
-- 社会・時事問題  
+- 日本学講読　　　  
 
 #### Vietnam Japan University
 - Public Policy Analysis    
