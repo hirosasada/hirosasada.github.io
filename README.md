@@ -31,7 +31,10 @@
 - [Publication list](https://hirosasada.github.io/publications)    
 - [Google Scholar Citation](https://scholar.google.com/citations?user=GcsuKIUAAAAJ&hl=en)   
 - [Research Gate](https://www.researchgate.net/profile/Hironori_Sasada)  
-  
+
+### Media appearance  
+- I have been interviewed about Japanese politics by various media outlets such as the Economist, TIME, Japan Times, Trouw (Netherland), ABC TV (Australia), Ariran TV (Korea), and HTB (Japan).  
+ 
 ### Teaching  
 #### Hokkaido University  
 - Introduction to Japanese Politics
