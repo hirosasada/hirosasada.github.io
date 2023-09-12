@@ -1,7 +1,15 @@
 theme: jekyll-theme-leap-day  
 title: Hironori Sasada  
 description: Professor of Japanese politics at Hokkaido University  
-google_analytics: G-SNZL8DY9H5  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SNZL8DY9H5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SNZL8DY9H5');
+</script>  
 plugins:
   - jemoji
   
