@@ -61,4 +61,4 @@
 - [Vietnam Japan University](http://vju.vnu.edu.vn/)  
 
 **[Top ↑](https://hirosasada.github.io/)**    
-<font color="White">Hironori Sasada Hiro Sasada Hokkaido University political science 佐々田博教 北海道大学 政治学</font>    
+<font color="White">Hironori Sasada Hiro Sasada Hokkaido University political science political scientist Japanese politics expert 佐々田博教 北海道大学 政治学 政治学者</font>    
