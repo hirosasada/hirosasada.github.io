@@ -1,5 +1,5 @@
 [日本語](https://sites.google.com/view/hirosasada-jp/%E3%83%9B%E3%83%BC%E3%83%A0)  
-<span style="font-size:14pt">**Welcome to Hiro Sasada's website**</span>    
+<span style="font-size:14pt">**Welcome to Hiro Sasada's website**</span>   
 
 - **Hironori Sasada is Professor of Japanese politics at the Research Faculty of Media and Communication, Hokkaido University. He is also Vice Dean of Hokkaido University's <font color="Red">Modern Japanese Studies Program.</font>**　　
  
