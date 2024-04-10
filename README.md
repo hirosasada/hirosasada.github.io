@@ -1,11 +1,6 @@
 [日本語](https://sites.google.com/view/hirosasada-jp/%E3%83%9B%E3%83%BC%E3%83%A0)  
-<span style="font-size:14pt">**Welcome to Hiro Sasada's website**</span>   
 
 - **Hironori Sasada is Professor of Japanese politics at the Research Faculty of Media and Communication, Hokkaido University. He is also Vice Dean of Hokkaido University's <font color="Red">Modern Japanese Studies Program.</font>**　　
- 
-![space03](https://user-images.githubusercontent.com/47653058/53389096-4b8d2480-39d1-11e9-983c-171961f2cd8d.png)　
-![p008](https://user-images.githubusercontent.com/47653058/74298787-161e4a00-4d8e-11ea-9fda-b6db834a44e7.jpg)    
-
 
 ### About me
 
@@ -44,16 +39,6 @@
 #### [Vietnam Japan University](https://vju.ac.vn/en/home/)  
 - Public Policy Analysis    
 - Public Policy Formation and Implementation    
-
-### Links
-- [*The Origin of Japan’s Protectionist Agricultural Policy* (Routledge, 2023)](https://www.routledge.com/The-Origin-of-Japans-Protectionist-Agricultural-Policy-Agricultural/Sasada/p/book/9781032539423#)  
-- [『農業保護政策の起源：近代日本農政の発展 1874~1945』（勁草書房, 2018年）](https://www.amazon.co.jp/dp/4326351772)     
-- [*The Evolution of the Japanese Developmental State* (Routledge, 2012)](https://read.amazon.com/kp/embed?asin=B0094GB17M&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_Ck6zCb1GPP3ZB)    
-- [『制度発展と政策アイディア』（木鐸社, 2011年）](https://www.amazon.co.jp/dp/4833224488)  
-  
-- [Hokkaido University](https://www.hokudai.ac.jp)   
-- [Hokkaido University Modern Japanese Studies Program](https://www.oia.hokudai.ac.jp/mjsp)  
-- [Vietnam Japan University](http://vju.vnu.edu.vn/)  
 
 **[Top ↑](https://hirosasada.github.io/)**    
 <font color="White">Hironori Sasada Hiro Sasada Hokkaido University political science political scientist Japanese politics expert 佐々田博教 北海道大学 政治学 政治学者</font>    
