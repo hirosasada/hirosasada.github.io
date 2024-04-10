@@ -44,7 +44,6 @@
 - Japanese Political History (1868-1955)  
 - International Political Economy  
 - 日本社会論 III  
-- 日本学講読　　　  
 
 #### [Vietnam Japan University](https://vju.ac.vn/en/home/)  
 - Public Policy Analysis    
